@@ -13,3 +13,7 @@
 解释器: Python 3.10.11
 
 node.js: 21.7.3
+
+**编辑器**：PyCharm 2024.1.4（Professional Edition）  
+**解释器**：Python 3.10.11  
+**Node.js**：21.7.3  
