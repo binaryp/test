@@ -1,8 +1,10 @@
 # sing-box
 
-- 官方引导页：https://www.singboxvt.com
-- 官方 GitHub 仓库：https://github.com/SagerNet/sing-box
-- 官方文档 / 手册：https://sing-box.sagernet.org
+官方引导页：https://www.singboxvt.com
+
+官方 GitHub 仓库：https://github.com/SagerNet/sing-box
+
+官方文档 / 手册：https://sing-box.sagernet.org
 
 ## 部署与使用
 
