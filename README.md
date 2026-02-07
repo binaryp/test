@@ -1,13 +1,13 @@
-# spider-lab
+# sing-box
 
-主要记录作者在接口化爬虫开发中遇到的问题、实用的技术、实战的经验，以及其它相关笔记与探索。
+- 官方引导页：https://www.singboxvt.com
+- 官方 GitHub 仓库：https://github.com/SagerNet/sing-box
+- 官方文档 / 手册：https://sing-box.sagernet.org
 
-通过总结经验，提升爬虫开发水平，避免重复犯错。
+## 部署与使用
 
-这里没有完整教程，只有作者技术不达标的时间线记录。
+### VLESS + Reality
 
-# 主要编程环境
+- [服务端部署](vless-reality/server.md)
+- [客户端配置](vless-reality/client.md)
 
-Python 3.10.11
-
-nodejs 22.16.0
